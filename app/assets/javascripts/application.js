@@ -29,4 +29,12 @@ $(document).ready(function(){
 			console.log(response);
 		});
 	})
+	
+	$(document).on('click', '.chat-with', function(){
+		var userId = $(this).attr('data-user-id'); 
+		channel.bindEvent('msg-'+id, function(data) {
+			console.log(data);
+			$('.messages').append('<p>'+data+'</p>');
+		});
+	})
 });
