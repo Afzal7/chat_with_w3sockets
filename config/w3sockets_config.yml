@@ -1,0 +1,11 @@
+development: 
+  public_key: 3635e8c50162ec62ddd539400b635d23fe491c966e35af796f767ca6fd9f8e0f 
+  secret_key: 7e2d0ab8d4adb0f5e3fc5f8980efb16f84a02d44c7a05ac898c2dfb308eb06f0
+
+staging: 
+  public_key: 3635e8c50162ec62ddd539400b635d23fe491c966e35af796f767ca6fd9f8e0f 
+  secret_key: 7e2d0ab8d4adb0f5e3fc5f8980efb16f84a02d44c7a05ac898c2dfb308eb06f0
+
+production: 
+  public_key: 3635e8c50162ec62ddd539400b635d23fe491c966e35af796f767ca6fd9f8e0f 
+  secret_key: 7e2d0ab8d4adb0f5e3fc5f8980efb16f84a02d44c7a05ac898c2dfb308eb06f0
